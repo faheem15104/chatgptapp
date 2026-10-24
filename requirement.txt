@@ -1,0 +1,12 @@
+streamlit
+langchain-core
+langchain-openai
+langchain
+openai
+tiktoken
+python-dotenv
+streamlit
+langchain-openai
+langchain-core
+langchain-tavily
+python-dotenv
